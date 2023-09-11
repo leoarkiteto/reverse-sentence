@@ -1,7 +1,7 @@
 {
-  "name": "reverse-sentence",
+  "name": "@leofranca/reverse-sentence",
   "version": "1.0.0",
-  "description": "index.js",
+  "description": "Reverses a provided sentence",
   "main": "index.js",
   "type": "module",
   "scripts": {
